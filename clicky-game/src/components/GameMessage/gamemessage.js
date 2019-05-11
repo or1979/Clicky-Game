@@ -31,4 +31,45 @@ class GameMessage extends Component {
                 this.setState(newState);
             }
         }
+
+        renderMessage = () => {
+            switch (this.state.message) {
+                case "correct":
+                 return "You guessed correctly!";
+                case "incorrect":
+                    return "You guessed incorrectly!";
+                default:
+                    return "Click a character to begin!";
+            }
+        };
+
+        //add animation class when animateClass state updates
+        addAnimation = () => {
+            switch (this.state.message) {
+                case "correct":
+                    return "animated pulse";
+                case "incorrect":
+                    return "animated wobble";
+                default:
+                    return "";
+            }
+        }
+
+        render() {
+                return(
+                    <li
+                        className={'
+                            gameMessage: 
+                            ${this.state.animating? this.addAnimation(): ""}
+                            ${this.state.animating? this.state.message: "black"}              
+                        '}
+                        id={'${this.state.message}'}
+                        onAnimationEnd={() => this.setState({ animating: false})}
+                      >
+                      {this.renderMessage()}  
+                      </li>
+                );
+        }
 }
+
+export default GameMessage;
