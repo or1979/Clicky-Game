@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.4f8cce75.chunk.css",
+    "main.js": "/clicky-game/static/js/main.69398d0e.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.69398d0e.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/clicky-game/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/clicky-game/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.b6b8f7e21659bedb521ab1936c0a0525.js": "/clicky-game/precache-manifest.b6b8f7e21659bedb521ab1936c0a0525.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.4f8cce75.chunk.css.map": "/clicky-game/static/css/main.4f8cce75.chunk.css.map",
+    "static/media/bowser.png": "/clicky-game/static/media/bowser.7effe5e0.png",
+    "static/media/daisy.png": "/clicky-game/static/media/daisy.77756d20.png",
+    "static/media/donkey-kong.png": "/clicky-game/static/media/donkey-kong.ce9931a6.png",
+    "static/media/koopa-troopa.png": "/clicky-game/static/media/koopa-troopa.75b08fd6.png",
+    "static/media/luigi.png": "/clicky-game/static/media/luigi.4d11d5f5.png",
+    "static/media/mario-background.gif": "/clicky-game/static/media/mario-background.2e46fb13.gif",
+    "static/media/mario.png": "/clicky-game/static/media/mario.b684a6c7.png",
+    "static/media/peach.png": "/clicky-game/static/media/peach.eaf514a4.png",
+    "static/media/react-logo.png": "/clicky-game/static/media/react-logo.3a579621.png",
+    "static/media/shy-guy.png": "/clicky-game/static/media/shy-guy.0d05b16c.png",
+    "static/media/toad.png": "/clicky-game/static/media/toad.bd6f7586.png",
+    "static/media/waluigi.png": "/clicky-game/static/media/waluigi.eea960eb.png",
+    "static/media/wario.png": "/clicky-game/static/media/wario.e508dfce.png",
+    "static/media/yoshi.png": "/clicky-game/static/media/yoshi.1e0c78d4.png"
+  }
+}
