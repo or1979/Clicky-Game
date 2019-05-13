@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import FriendCard from "./components/FriendCard";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import data from "./data.json";
 import "./App.css";
 
