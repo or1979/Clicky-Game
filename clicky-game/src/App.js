@@ -1,4 +1,4 @@
-import React from "react";
+import { React, Component } from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import FriendCard from "./components/FriendCard";
@@ -7,7 +7,7 @@ import data from "./data.json";
 import "./App.css";
 
 
-class App extends React.Component {
+class App extends Component {
   state = {
     data,
     clickedData: [],
