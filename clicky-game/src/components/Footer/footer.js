@@ -5,9 +5,9 @@ const Footer = () => (
     <footer className="footer">
         <div className="bottom">
             <ul id='footer-list'>
-                <li><span><img className='logo' id="reactLogo" src="assets/images/react-logo.png"/></span> Clicky Game!</li>
+                <li><span><img className='logo' id="reactLogo" src=".\images\react-logo.png" alt="" /></span> Clicky Game!</li>
                 <li>© 2019 Orran Robinson</li>
-                <li><a href="https://github.com/or/clicky-game" target="blank"><span><img className='logo' src="assets/images/github.png"/></span> Github</a></li>
+                <li><a href="https://github.com/or1979/clicky-game" target="blank"><span><img className='logo' src="images/github.png" alt="" /></span> Github</a></li>
             </ul>
         </div>
     </footer>

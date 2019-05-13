@@ -1,7 +1,7 @@
 .footer {
     min-height: 80px;
     width: 100%;
-    background: rgb(59, 5, 252);
+    background: red;
     box-shadow: 0 0 5px 1px darkslategrey;
     position: relative;
     margin-top: 50px;
@@ -15,8 +15,8 @@
     margin: 0 auto;
     width: 100%;
     min-height: 50px;
-    border-top: 5px solid rgb(97, 41, 252);
-    background: rgb(50, 15, 253);
+    border-top: 5px solid rgb(228, 61, 61);
+    background: red;
     text-align: center;
 }
 

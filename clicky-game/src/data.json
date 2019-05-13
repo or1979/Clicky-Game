@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "yoshi.png"
+    
+    },
+    {
+      "id": 2,
+      "image": "waluigi.png"
+     
+    },
+    {
+      "id": 3,
+      "image": "wario.png"
+    
+    },
+    {
+      "id": 4,
+      "image": "toad.png"
+      
+    },
+    {
+      "id": 5,
+      "image": "bowser.png"
+     
+    },
+    {
+      "id": 6,
+      "image": "daisy.png"
+     
+    },
+    {
+      "id": 7,
+      "image": "donkey-kong.png"
+    
+    },
+    {
+      "id": 8,
+      "image": "koopa-troopa.png"
+     
+    },
+    {
+      "id": 9,
+      "image": "luigi.png"
+    
+    },
+    {
+      "id": 10,
+      "image": "mario.png"
+     
+    },
+    {
+      "id": 11,
+      "image": "peach.png"
+    
+    },
+    {
+      "id": 12,
+      "image": "shy-guy.png"
+      
+    }
+  ]
