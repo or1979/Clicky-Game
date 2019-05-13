@@ -1,18 +1,18 @@
-import React, { Component } from "react";
-import "./Navbar.css";
+// import React, { Component } from "react";
+// import "./Navbar.css";
 
-class Navbar extends Component {
-  render() {
-    return (
-      <nav className="navbar navbar-default navbar-fixed-top">
-         <ul>
-          <li className="itemLeft">Test Your Memory Clicky Game</li>
-          <li className="itemCenter"></li>
-          <li className="itemRight">Score: {this.props.score}</li>
-        </ul>
-      </nav>
-    );
-  }
-}
+// class Navbar extends Component {
+//   render() {
+//     return (
+//       <nav className="navbar navbar-default navbar-fixed-top">
+//          <ul>
+//           <li className="itemLeft">Test Your Memory Clicky Game</li>
+//           <li className="itemCenter"></li>
+//           <li className="itemRight">Score: {this.props.score}</li>
+//         </ul>
+//       </nav>
+//     );
+//   }
+// }
 
-export default Navbar;
+// export default Navbar;
