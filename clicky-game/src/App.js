@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import FriendCard from "./components/FriendCard";
-import Footer from "./components/Footer";
+import footer from "./components/footer";
 import data from "./data.json";
 import "./App.css";
 
@@ -78,7 +78,7 @@ class App extends React.Component {
             />
           ))}
         </div>
-        <Footer />
+        <footer />
       </div>
     );
   }
